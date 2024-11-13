@@ -4,8 +4,7 @@ import numpy as np
 import os
 
 # Initialize YOLO model
-model = YOLO(
-    "D:\\International Trainings-Projects\\United Kingdom (UK)\\Robert Gordon University\\1\\RGU project-Meta Glasses\\Project\\runs\\detect\\train32222\\weights\\best.pt")
+model = YOLO(# Enter path)
 
 class_names = {
     0: 'laptop',
