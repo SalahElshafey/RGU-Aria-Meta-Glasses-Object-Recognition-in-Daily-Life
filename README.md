@@ -76,7 +76,7 @@ For yolov8n package installation check:
 ## Contact Information
 For more details or inquiries, please contact:
 - Salah Elshafey
-linkedin : https://www.linkedin.com/in/salah-elshafey-3550461a1/
+linkedin : https://www.linkedin.com/in/salah-elshafey
 
 
 
