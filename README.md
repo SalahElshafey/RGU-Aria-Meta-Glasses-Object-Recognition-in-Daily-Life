@@ -71,12 +71,11 @@ For yolov8n package installation check:
 - **3D Detection:** Transition from 2D object detection to 3D.
 - **Live Sensor Data:** Utilize live sensor data once Wi-Fi streaming is stabilized.
 
-## RGU Report link
-![RGU Report](https://github.com/SalahElshafey/RGU-Aria-Meta-Glasses-Object-Recognition-in-Daily-Life/blob/main/Readme%20images/3.png?raw=true)
+
 ## Contact Information
 For more details or inquiries, please contact:
 - Salah Elshafey
-linkedin : https://www.linkedin.com/in/salah-elshafey
+linkedin : https://www.linkedin.com/in/salah-elshafey/
 
 
 
